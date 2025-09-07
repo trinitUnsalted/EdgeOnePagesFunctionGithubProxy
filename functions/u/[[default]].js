@@ -17,7 +17,16 @@ const domain_mappings = {
   'githubusercontent.com': 'githubusercontent-com.',
   'github.global.ssl.fastly.net': 'github-global-ssl-fastly-net.',
   'api.npms.io': 'api-npms-io.',
-  'github.community': 'github-community.'
+  'github.community': 'github-community.',
+  'h-ciyuan.com' : 'h-ciyuan-com.',
+  'voe.sx' : 'voe-sx.',
+  'pymumu.github.io' : 'pymumu-github-io.',
+  'greasyfork.org' : 'greasyfork-org.',
+  'update.greasyfork.org': 'update-greasyfork-org.',
+  'fastly.jsdelivr.net' : 'fastly.jsdelivr-net.',
+  'api.greasyfork.org' : 'api-greasyfork-org.',
+  'f-droid.org' : 'f-droid-org.',
+  'www.wikipedia.org' : 'www-wikipedia-org.',
 };
 
 // 需要重定向的路径
